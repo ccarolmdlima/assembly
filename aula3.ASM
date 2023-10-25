@@ -1,4 +1,4 @@
---- Exercício 1 ---
+; --- Exercício 1 ---
 ;	in	00
 ;	mov	[90],al
 ;	end
